@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: black;
+    
+    
+}
+
+#onix , #camaro, #cruze, #tracker
+{
+    margin: 0 5vw 0 10vw;
+    flex: 2;
+    color:white;
+}
